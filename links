@@ -13,3 +13,7 @@ https://docs.fastly.com/en/guides/amazon-s3
 
 #integration to update s3 buckets
 https://github.com/marketplace/actions/s3-sync
+
+
+#github secrets
+https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment
