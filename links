@@ -9,3 +9,7 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.
 
 #Configuring flastly to use a static s3 webpage
 https://docs.fastly.com/en/guides/amazon-s3
+
+
+#integration to update s3 buckets
+https://github.com/marketplace/actions/s3-sync
