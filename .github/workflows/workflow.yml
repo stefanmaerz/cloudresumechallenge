@@ -7,6 +7,7 @@ on:
 
 jobs:
   deploy:
+    environment: S3 Integration
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
