@@ -3,3 +3,5 @@ CI/CD
 domain
 terraform
 CDN
+
+Create an IAM user just for the S3 bucket updates.
