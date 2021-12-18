@@ -1,0 +1,8 @@
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html#root-domain-walkthrough-create-buckets
+
+
+
+https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html
+
+#Configuring flastly to use a static s3 webpage
+https://docs.fastly.com/en/guides/amazon-s3
