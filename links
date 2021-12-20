@@ -17,3 +17,8 @@ https://github.com/marketplace/actions/s3-sync
 
 #github secrets
 https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment
+
+
+
+#creating a serverless AWS API Endpoint:
+https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started.html

@@ -32,3 +32,15 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+
+const userAction = async () => {
+    console.group("We are here!")
+    const response = await fetch('http://example.com');
+    //const response = await fetch('https://alyghdv95c.execute-api.us-east-2.amazonaws.com/my-function');
+    const myJson = await response.json(); //extract JSON from the http response
+    // do something with myJson
+    console.group("We are there!")
+  }
+  
+  userAction()
