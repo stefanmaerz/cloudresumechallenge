@@ -10,6 +10,9 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.
 #Configuring flastly to use a static s3 webpage
 https://docs.fastly.com/en/guides/amazon-s3
 
+#configuring SSL for Fastly:
+https://docs.fastly.com/en/guides/serving-https-traffic-using-fastly-managed-certificates
+Uses the ACME protocol to get a lets encrypt certificate. Managed by Fastly.
 
 #integration to update s3 buckets
 https://github.com/marketplace/actions/s3-sync
